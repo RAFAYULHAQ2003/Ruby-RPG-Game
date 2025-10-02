@@ -1,0 +1,449 @@
+[2025-10-01 16:44:44] Player ea03359e-6df8-48d7-aff0-c0e9abf7ad5f gained 30 XP (total 30).
+[2025-10-01 16:45:26] Player b0016c8f-962c-4848-a174-46c3d058a81d gained 30 XP (total 30).
+[2025-10-01 16:51:23] Player 4fb7e60d-52bd-48f5-bfa5-1d86b102afea gained 30 XP (total 30).
+[2025-10-01 16:55:57] Player d48f9b8f-8888-41e2-b63c-9542ddf185e6 gained 30 XP (total 30).
+[2025-10-01 17:11:10] Player b4065965-a7c7-4316-8b9a-54755ed324ea gained 30 XP (total 30).
+[2025-10-01 17:14:05] Created new character: Rafay 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 (class Warrior).
+[2025-10-01 17:14:05] Encounter started: Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 vs Troll 190b0a0d-a166-4337-b0a4-398b09641201 (lvl 2).
+[2025-10-01 17:14:11] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 18 damage.
+[2025-10-01 17:14:11] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 10 damage.
+[2025-10-01 17:14:29] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 17 damage.
+[2025-10-01 17:14:29] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 6 damage.
+[2025-10-01 17:14:31] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 18 damage.
+[2025-10-01 17:14:31] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 9 damage.
+[2025-10-01 17:14:32] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 18 damage.
+[2025-10-01 17:14:32] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 10 damage.
+[2025-10-01 17:14:32] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 15 damage.
+[2025-10-01 17:14:32] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 11 damage.
+[2025-10-01 17:14:32] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 18 damage.
+[2025-10-01 17:14:32] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 11 damage.
+[2025-10-01 17:14:33] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 17 damage.
+[2025-10-01 17:14:33] Troll 190b0a0d-a166-4337-b0a4-398b09641201 attacked Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 for 9 damage.
+[2025-10-01 17:14:33] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 attacked Troll 190b0a0d-a166-4337-b0a4-398b09641201 for 18 damage.
+[2025-10-01 17:14:33] Enemy Troll 190b0a0d-a166-4337-b0a4-398b09641201 defeated by Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690.
+[2025-10-01 17:14:33] Player 8ac1bfc6-38b6-4bba-87e0-44d1c8f05690 gained 40 XP (total 40).
+[2025-10-01 17:15:26] Created new character: ALi 65c5204f-6480-4f59-b5cd-858be8a9920a (class Mage).
+[2025-10-01 17:15:26] Encounter started: Player 65c5204f-6480-4f59-b5cd-858be8a9920a vs Dragon 22a4eb1c-926f-4408-a375-27c8c8fc19f1 (lvl 1).
+[2025-10-01 17:15:34] Player 65c5204f-6480-4f59-b5cd-858be8a9920a defends (next damage halved).
+[2025-10-01 17:15:34] Dragon 22a4eb1c-926f-4408-a375-27c8c8fc19f1 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 14 damage.
+[2025-10-01 17:15:48] Player 65c5204f-6480-4f59-b5cd-858be8a9920a ran from Dragon 22a4eb1c-926f-4408-a375-27c8c8fc19f1.
+[2025-10-01 17:15:58] Encounter started: Player 65c5204f-6480-4f59-b5cd-858be8a9920a vs Troll fdebb274-b56f-4978-a8e3-3c079fa14572 (lvl 2).
+[2025-10-01 17:16:03] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 22 damage.
+[2025-10-01 17:16:03] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 15 damage.
+[2025-10-01 17:16:04] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 22 damage.
+[2025-10-01 17:16:04] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 13 damage.
+[2025-10-01 17:16:04] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 24 damage.
+[2025-10-01 17:16:04] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 10 damage.
+[2025-10-01 17:16:05] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 19 damage.
+[2025-10-01 17:16:05] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 12 damage.
+[2025-10-01 17:16:05] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 22 damage.
+[2025-10-01 17:16:05] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 13 damage.
+[2025-10-01 17:16:06] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 19 damage.
+[2025-10-01 17:16:06] Troll fdebb274-b56f-4978-a8e3-3c079fa14572 attacked Player 65c5204f-6480-4f59-b5cd-858be8a9920a for 13 damage.
+[2025-10-01 17:16:07] Player 65c5204f-6480-4f59-b5cd-858be8a9920a attacked Troll fdebb274-b56f-4978-a8e3-3c079fa14572 for 21 damage.
+[2025-10-01 17:16:07] Enemy Troll fdebb274-b56f-4978-a8e3-3c079fa14572 defeated by Player 65c5204f-6480-4f59-b5cd-858be8a9920a.
+[2025-10-01 17:16:07] Player 65c5204f-6480-4f59-b5cd-858be8a9920a gained 40 XP (total 40).
+[2025-10-01 17:17:01] Created new character: tt 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 (class Rogue).
+[2025-10-01 17:17:01] Encounter started: Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 vs Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 (lvl 2).
+[2025-10-01 17:17:04] Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 attacked Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 for 9 damage.
+[2025-10-01 17:17:04] Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 attacked Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 for 26 damage.
+[2025-10-01 17:17:04] Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 attacked Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 for 8 damage.
+[2025-10-01 17:17:04] Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 attacked Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 for 28 damage.
+[2025-10-01 17:17:05] Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 attacked Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 for 8 damage.
+[2025-10-01 17:17:05] Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 attacked Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 for 31 damage.
+[2025-10-01 17:17:08] Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 attacked Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 for 8 damage.
+[2025-10-01 17:17:08] Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1 attacked Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 for 27 damage.
+[2025-10-01 17:17:08] Player 366bd52a-efc8-4c0f-afd2-f6524a4c7ac9 was defeated by Dragon 382ece5a-c879-4fec-a399-2f5d8dcccee1.
+[2025-10-01 17:17:24] Created new character: tt 49957ad8-3f7a-44f8-8395-cf468fa43c81 (class Warrior).
+[2025-10-01 17:17:24] Encounter started: Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 vs Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce (lvl 2).
+[2025-10-01 17:17:27] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 15 damage.
+[2025-10-01 17:17:27] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 6 damage.
+[2025-10-01 17:17:28] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 18 damage.
+[2025-10-01 17:17:28] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 6 damage.
+[2025-10-01 17:17:28] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 14 damage.
+[2025-10-01 17:17:28] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 10 damage.
+[2025-10-01 17:17:29] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 19 damage.
+[2025-10-01 17:17:29] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 11 damage.
+[2025-10-01 17:17:29] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 19 damage.
+[2025-10-01 17:17:29] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 7 damage.
+[2025-10-01 17:17:30] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 17 damage.
+[2025-10-01 17:17:30] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 9 damage.
+[2025-10-01 17:17:30] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 14 damage.
+[2025-10-01 17:17:30] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 8 damage.
+[2025-10-01 17:17:31] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 14 damage.
+[2025-10-01 17:17:31] Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce attacked Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 for 10 damage.
+[2025-10-01 17:17:32] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 attacked Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce for 19 damage.
+[2025-10-01 17:17:32] Enemy Troll 5753d5c5-403b-40f9-9957-7f337ebd24ce defeated by Player 49957ad8-3f7a-44f8-8395-cf468fa43c81.
+[2025-10-01 17:17:32] Player 49957ad8-3f7a-44f8-8395-cf468fa43c81 gained 40 XP (total 40).
+[2025-10-01 17:18:10] Loaded character tt ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba from saves/49957ad8-3f7a-44f8-8395-cf468fa43c81.yml.
+[2025-10-01 17:18:10] Encounter started: Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba vs Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b (lvl 1).
+[2025-10-01 17:19:51] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 10 damage.
+[2025-10-01 17:19:51] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 24 damage.
+[2025-10-01 17:19:52] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 9 damage.
+[2025-10-01 17:19:52] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 24 damage.
+[2025-10-01 17:19:52] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 9 damage.
+[2025-10-01 17:19:52] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 21 damage.
+[2025-10-01 17:19:53] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 12 damage.
+[2025-10-01 17:19:53] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 22 damage.
+[2025-10-01 17:19:53] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 11 damage.
+[2025-10-01 17:19:53] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 21 damage.
+[2025-10-01 17:19:54] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba attacked Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b for 8 damage.
+[2025-10-01 17:19:54] Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b attacked Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba for 21 damage.
+[2025-10-01 17:19:54] Player ccb71a3d-46ff-4022-bee8-8ac1afe8a1ba was defeated by Dragon 569278a5-18ef-45cf-b67d-64ef211e2a6b.
+[2025-10-01 17:20:03] Loaded character tt 5038357e-0ec2-419f-aa56-38ba035b2546 from saves/49957ad8-3f7a-44f8-8395-cf468fa43c81.yml.
+[2025-10-01 17:20:03] Encounter started: Player 5038357e-0ec2-419f-aa56-38ba035b2546 vs Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 (lvl 1).
+[2025-10-01 17:20:14] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 17 damage.
+[2025-10-01 17:20:14] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 7 damage.
+[2025-10-01 17:20:15] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 16 damage.
+[2025-10-01 17:20:15] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 5 damage.
+[2025-10-01 17:20:16] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 19 damage.
+[2025-10-01 17:20:16] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 8 damage.
+[2025-10-01 17:20:16] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 16 damage.
+[2025-10-01 17:20:16] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 5 damage.
+[2025-10-01 17:20:17] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 14 damage.
+[2025-10-01 17:20:17] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 9 damage.
+[2025-10-01 17:20:18] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 15 damage.
+[2025-10-01 17:20:18] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 6 damage.
+[2025-10-01 17:20:18] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 14 damage.
+[2025-10-01 17:20:18] Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 attacked Player 5038357e-0ec2-419f-aa56-38ba035b2546 for 8 damage.
+[2025-10-01 17:20:19] Player 5038357e-0ec2-419f-aa56-38ba035b2546 attacked Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 for 14 damage.
+[2025-10-01 17:20:19] Enemy Troll d07e0e73-4433-40f5-9bd8-8c55f5e0a359 defeated by Player 5038357e-0ec2-419f-aa56-38ba035b2546.
+[2025-10-01 17:20:19] Player 5038357e-0ec2-419f-aa56-38ba035b2546 gained 20 XP (total 20).
+[2025-10-01 17:32:42] Created new character: Junaid 0bb31b59-43ad-42c9-ab64-78aead3c2e04 (class Warrior).
+[2025-10-01 17:32:42] Encounter started: Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 vs Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 (lvl 1).
+[2025-10-01 17:32:43] Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 attacked Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 for 18 damage.
+[2025-10-01 17:32:43] Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 attacked Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 for 2 damage.
+[2025-10-01 17:32:44] Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 attacked Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 for 19 damage.
+[2025-10-01 17:32:44] Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 attacked Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 for 1 damage.
+[2025-10-01 17:32:44] Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 attacked Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 for 18 damage.
+[2025-10-01 17:32:44] Enemy Goblin 10f0f17a-de76-43c6-a962-4d9f3e3ee359 defeated by Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04.
+[2025-10-01 17:32:44] Player 0bb31b59-43ad-42c9-ab64-78aead3c2e04 gained 20 XP (total 20).
+[2025-10-01 17:33:10] Loaded character Junaid 0f39a881-19af-414f-a6f0-e8f30cd3a32b from saves/0bb31b59-43ad-42c9-ab64-78aead3c2e04.json.
+[2025-10-01 17:33:10] Encounter started: Player 0f39a881-19af-414f-a6f0-e8f30cd3a32b vs Dragon 11cdd1ab-43c4-43a0-a6db-235ac3fc4a21 (lvl 1).
+[2025-10-01 17:38:09] Loaded character Junaid 54b254e3-16fb-4363-81a7-8d0474697ee5 from saves/0bb31b59-43ad-42c9-ab64-78aead3c2e04.json.
+[2025-10-01 17:38:09] Encounter started: Player 54b254e3-16fb-4363-81a7-8d0474697ee5 vs Dragon 0e2862c2-f25b-412b-bb81-87e075a233f1 (lvl 1).
+[2025-10-01 17:38:17] Player 54b254e3-16fb-4363-81a7-8d0474697ee5's escape failed from Dragon 0e2862c2-f25b-412b-bb81-87e075a233f1.
+[2025-10-01 17:38:17] Dragon 0e2862c2-f25b-412b-bb81-87e075a233f1 attacked Player 54b254e3-16fb-4363-81a7-8d0474697ee5 for 20 damage.
+[2025-10-01 17:38:27] Player 54b254e3-16fb-4363-81a7-8d0474697ee5 defends (next damage halved).
+[2025-10-01 17:38:27] Dragon 0e2862c2-f25b-412b-bb81-87e075a233f1 attacked Player 54b254e3-16fb-4363-81a7-8d0474697ee5 for 13 damage.
+[2025-10-01 17:38:32] Player 54b254e3-16fb-4363-81a7-8d0474697ee5 defends (next damage halved).
+[2025-10-01 17:38:32] Dragon 0e2862c2-f25b-412b-bb81-87e075a233f1 attacked Player 54b254e3-16fb-4363-81a7-8d0474697ee5 for 13 damage.
+[2025-10-01 17:38:44] Loaded character Junaid 178953ed-9798-4011-b8b7-00d74b97e627 from saves/0bb31b59-43ad-42c9-ab64-78aead3c2e04.json.
+[2025-10-01 17:38:44] Encounter started: Player 178953ed-9798-4011-b8b7-00d74b97e627 vs Goblin c5de067d-1581-476d-9066-478ff572e42d (lvl 1).
+[2025-10-01 17:38:54] Player 178953ed-9798-4011-b8b7-00d74b97e627 attacked Goblin c5de067d-1581-476d-9066-478ff572e42d for 17 damage.
+[2025-10-01 17:38:54] Goblin c5de067d-1581-476d-9066-478ff572e42d attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for 0 damage.
+[2025-10-01 17:38:55] Player 178953ed-9798-4011-b8b7-00d74b97e627 attacked Goblin c5de067d-1581-476d-9066-478ff572e42d for 20 damage.
+[2025-10-01 17:38:55] Goblin c5de067d-1581-476d-9066-478ff572e42d attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for -1 damage.
+[2025-10-01 17:38:55] Player 178953ed-9798-4011-b8b7-00d74b97e627 attacked Goblin c5de067d-1581-476d-9066-478ff572e42d for 18 damage.
+[2025-10-01 17:38:55] Enemy Goblin c5de067d-1581-476d-9066-478ff572e42d defeated by Player 178953ed-9798-4011-b8b7-00d74b97e627.
+[2025-10-01 17:38:55] Player 178953ed-9798-4011-b8b7-00d74b97e627 gained 20 XP (total 20).
+[2025-10-01 17:39:10] Encounter started: Player 178953ed-9798-4011-b8b7-00d74b97e627 vs Dragon 38971c27-327c-4991-88a3-63e5d81fdd74 (lvl 2).
+[2025-10-01 17:55:46] Created new character: rrr 01dde5cc-9c1f-4135-9762-4314f6265754 (class Warrior).
+[2025-10-01 17:55:46] Encounter started: Player 01dde5cc-9c1f-4135-9762-4314f6265754 vs Dragon ac960a49-be02-43b4-96af-23499e15810e (lvl 1).
+[2025-10-01 17:55:49] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 10 damage.
+[2025-10-01 17:55:49] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 20 damage.
+[2025-10-01 17:55:50] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 10 damage.
+[2025-10-01 17:55:50] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 25 damage.
+[2025-10-01 17:55:51] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 10 damage.
+[2025-10-01 17:55:51] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 25 damage.
+[2025-10-01 17:55:52] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 10 damage.
+[2025-10-01 17:55:52] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 20 damage.
+[2025-10-01 17:55:53] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 11 damage.
+[2025-10-01 17:55:53] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 20 damage.
+[2025-10-01 17:55:54] Player 01dde5cc-9c1f-4135-9762-4314f6265754 attacked Dragon ac960a49-be02-43b4-96af-23499e15810e for 8 damage.
+[2025-10-01 17:55:54] Dragon ac960a49-be02-43b4-96af-23499e15810e attacked Player 01dde5cc-9c1f-4135-9762-4314f6265754 for 22 damage.
+[2025-10-01 17:55:54] Player 01dde5cc-9c1f-4135-9762-4314f6265754 was defeated by Dragon ac960a49-be02-43b4-96af-23499e15810e.
+[2025-10-01 17:56:06] Created new character: rrr a71a5b10-bca1-47ed-895b-c20c793e976e (class Warrior).
+[2025-10-01 17:56:06] Encounter started: Player a71a5b10-bca1-47ed-895b-c20c793e976e vs Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 (lvl 1).
+[2025-10-01 17:56:06] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 11 damage.
+[2025-10-01 17:56:06] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 24 damage.
+[2025-10-01 17:56:07] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 11 damage.
+[2025-10-01 17:56:07] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 25 damage.
+[2025-10-01 17:56:07] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 12 damage.
+[2025-10-01 17:56:07] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 23 damage.
+[2025-10-01 17:56:08] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 12 damage.
+[2025-10-01 17:56:08] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 21 damage.
+[2025-10-01 17:56:09] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 11 damage.
+[2025-10-01 17:56:09] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 21 damage.
+[2025-10-01 17:56:09] Player a71a5b10-bca1-47ed-895b-c20c793e976e attacked Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 for 9 damage.
+[2025-10-01 17:56:09] Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950 attacked Player a71a5b10-bca1-47ed-895b-c20c793e976e for 21 damage.
+[2025-10-01 17:56:09] Player a71a5b10-bca1-47ed-895b-c20c793e976e was defeated by Dragon c2699f01-db99-4d69-9d0f-37d9ebc7b950.
+[2025-10-01 17:56:20] Created new character: rrr 8c6ad337-cac6-42ce-8270-568a636d33fa (class Warrior).
+[2025-10-01 17:56:20] Encounter started: Player 8c6ad337-cac6-42ce-8270-568a636d33fa vs Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 (lvl 1).
+[2025-10-01 17:56:22] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 for 21 damage.
+[2025-10-01 17:56:22] Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 0 damage.
+[2025-10-01 17:56:23] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 for 21 damage.
+[2025-10-01 17:56:23] Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 1 damage.
+[2025-10-01 17:56:24] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 for 20 damage.
+[2025-10-01 17:56:24] Enemy Goblin 0f6dd1cd-f45d-4f74-8eac-7c0c7a0ecf07 defeated by Player 8c6ad337-cac6-42ce-8270-568a636d33fa.
+[2025-10-01 17:56:24] Player 8c6ad337-cac6-42ce-8270-568a636d33fa gained 20 XP (total 20).
+[2025-10-01 17:57:06] Encounter started: Player 8c6ad337-cac6-42ce-8270-568a636d33fa vs Dragon 16453d40-6e1c-414d-a756-ef62059093c8 (lvl 1).
+[2025-10-01 17:57:10] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Dragon 16453d40-6e1c-414d-a756-ef62059093c8 for 9 damage.
+[2025-10-01 17:57:10] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 20 damage.
+[2025-10-01 17:57:11] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Dragon 16453d40-6e1c-414d-a756-ef62059093c8 for 10 damage.
+[2025-10-01 17:57:11] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 24 damage.
+[2025-10-01 17:57:12] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Dragon 16453d40-6e1c-414d-a756-ef62059093c8 for 9 damage.
+[2025-10-01 17:57:12] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 20 damage.
+[2025-10-01 17:57:14] Player 8c6ad337-cac6-42ce-8270-568a636d33fa attacked Dragon 16453d40-6e1c-414d-a756-ef62059093c8 for 9 damage.
+[2025-10-01 17:57:14] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 25 damage.
+[2025-10-01 17:57:17] Player 8c6ad337-cac6-42ce-8270-568a636d33fa defends (next damage halved).
+[2025-10-01 17:57:17] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 10 damage.
+[2025-10-01 17:57:18] Player 8c6ad337-cac6-42ce-8270-568a636d33fa defends (next damage halved).
+[2025-10-01 17:57:18] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 11 damage.
+[2025-10-01 17:57:19] Player 8c6ad337-cac6-42ce-8270-568a636d33fa defends (next damage halved).
+[2025-10-01 17:57:19] Dragon 16453d40-6e1c-414d-a756-ef62059093c8 attacked Player 8c6ad337-cac6-42ce-8270-568a636d33fa for 11 damage.
+[2025-10-01 17:57:19] Player 8c6ad337-cac6-42ce-8270-568a636d33fa was defeated by Dragon 16453d40-6e1c-414d-a756-ef62059093c8.
+[2025-10-01 17:57:33] Loaded character rrr 13c8939d-c3c1-4781-a17e-e54281c89571 from saves/8c6ad337-cac6-42ce-8270-568a636d33fa.json.
+[2025-10-01 17:57:33] Encounter started: Player 13c8939d-c3c1-4781-a17e-e54281c89571 vs Troll 6d4bc43e-5a08-4bf0-aa7c-d6a98d72e036 (lvl 1).
+[2025-10-01 17:57:57] Loaded character rrr 714a2141-28d4-4161-8ec5-91dbb77b8139 from saves/8c6ad337-cac6-42ce-8270-568a636d33fa.json.
+[2025-10-01 17:57:57] Encounter started: Player 714a2141-28d4-4161-8ec5-91dbb77b8139 vs Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 (lvl 2).
+[2025-10-01 17:58:09] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 attacked Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 for 11 damage.
+[2025-10-01 17:58:09] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 24 damage.
+[2025-10-01 17:58:17] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 attacked Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 for 7 damage.
+[2025-10-01 17:58:17] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 25 damage.
+[2025-10-01 17:58:19] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:19] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 12 damage.
+[2025-10-01 17:58:20] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:20] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 13 damage.
+[2025-10-01 17:58:20] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:20] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 12 damage.
+[2025-10-01 17:58:21] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:21] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 13 damage.
+[2025-10-01 17:58:22] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:22] Dragon 3ca84740-e6d7-47ec-b791-3867578905e1 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 14 damage.
+[2025-10-01 17:58:23] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 ran from Dragon 3ca84740-e6d7-47ec-b791-3867578905e1.
+[2025-10-01 17:58:29] Encounter started: Player 714a2141-28d4-4161-8ec5-91dbb77b8139 vs Troll 4f87ff72-2c77-418b-8645-8866a82aad32 (lvl 1).
+[2025-10-01 17:58:34] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:34] Troll 4f87ff72-2c77-418b-8645-8866a82aad32 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 3 damage.
+[2025-10-01 17:58:37] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 defends (next damage halved).
+[2025-10-01 17:58:37] Troll 4f87ff72-2c77-418b-8645-8866a82aad32 attacked Player 714a2141-28d4-4161-8ec5-91dbb77b8139 for 5 damage.
+[2025-10-01 17:58:37] Player 714a2141-28d4-4161-8ec5-91dbb77b8139 was defeated by Troll 4f87ff72-2c77-418b-8645-8866a82aad32.
+[2025-10-01 18:10:46] Created new character: eee 43df6c1e-f611-4af7-b30b-6e688c8da6a9 (class Rogue).
+[2025-10-01 18:10:46] Encounter started: Player 43df6c1e-f611-4af7-b30b-6e688c8da6a9 vs Troll 8f90977a-b68a-410c-bf96-1e71237f6304 (lvl 1).
+[2025-10-01 18:11:27] Created new character: eee 6f325cfc-cd0d-4020-9284-8c479c3ec8e1 (class Mage).
+[2025-10-01 18:11:27] Encounter started: Player 6f325cfc-cd0d-4020-9284-8c479c3ec8e1 vs Dragon 5efd82bf-c189-4e11-ad0c-59a41485cf49 (lvl 1).
+[2025-10-01 18:11:39] Created new character: eee 2547dc39-658d-483c-af34-aeec0e38641e (class Mage).
+[2025-10-01 18:11:39] Encounter started: Player 2547dc39-658d-483c-af34-aeec0e38641e vs Dragon fa5a9b24-c62b-4141-93af-776777c7d5f1 (lvl 2).
+[2025-10-01 18:13:10] Created new character: www a4728cd0-c215-4e1d-86e8-ebe5269e4745 (class Warrior).
+[2025-10-01 18:13:10] Encounter started: Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 vs Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 (lvl 1).
+[2025-10-01 18:13:11] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 13 damage.
+[2025-10-01 18:13:11] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 20 damage.
+[2025-10-01 18:13:12] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 13 damage.
+[2025-10-01 18:13:12] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 22 damage.
+[2025-10-01 18:13:12] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 12 damage.
+[2025-10-01 18:13:12] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 20 damage.
+[2025-10-01 18:13:12] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 10 damage.
+[2025-10-01 18:13:12] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 25 damage.
+[2025-10-01 18:13:13] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 9 damage.
+[2025-10-01 18:13:13] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 25 damage.
+[2025-10-01 18:13:13] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 attacked Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 for 11 damage.
+[2025-10-01 18:13:13] Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647 attacked Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 for 22 damage.
+[2025-10-01 18:13:13] Player a4728cd0-c215-4e1d-86e8-ebe5269e4745 was defeated by Dragon 9620e4ea-6c12-45b9-97aa-6b2ff8b69647.
+[2025-10-01 18:21:26] Created new character: Usman 4f29ccf0-6e67-4d59-9229-975d09a92e31 (class Warrior).
+[2025-10-01 18:21:26] Encounter started: Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 vs Dragon b60fa692-d7fe-4872-b389-56efe289d994 (lvl 1).
+[2025-10-01 18:21:32] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 defends (next damage halved).
+[2025-10-01 18:21:32] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 12 damage.
+[2025-10-01 18:21:35] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31's escape failed from Dragon b60fa692-d7fe-4872-b389-56efe289d994.
+[2025-10-01 18:21:35] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 25 damage.
+[2025-10-01 18:21:39] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 attacked Dragon b60fa692-d7fe-4872-b389-56efe289d994 for 12 damage.
+[2025-10-01 18:21:39] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 22 damage.
+[2025-10-01 18:21:48] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 attacked Dragon b60fa692-d7fe-4872-b389-56efe289d994 for 11 damage.
+[2025-10-01 18:21:48] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 24 damage.
+[2025-10-01 18:21:52] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 attacked Dragon b60fa692-d7fe-4872-b389-56efe289d994 for 10 damage.
+[2025-10-01 18:21:52] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 23 damage.
+[2025-10-01 18:21:56] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 defends (next damage halved).
+[2025-10-01 18:21:56] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 11 damage.
+[2025-10-01 18:21:58] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 defends (next damage halved).
+[2025-10-01 18:21:58] Dragon b60fa692-d7fe-4872-b389-56efe289d994 attacked Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 for 10 damage.
+[2025-10-01 18:21:58] Player 4f29ccf0-6e67-4d59-9229-975d09a92e31 was defeated by Dragon b60fa692-d7fe-4872-b389-56efe289d994.
+[2025-10-01 18:22:23] Created new character: www 348e2d11-da4a-4e60-b115-39dfa0d7aa8e (class Warrior).
+[2025-10-01 18:22:23] Encounter started: Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e vs Goblin acdfa176-1222-4371-bd1b-6cce2456c18a (lvl 1).
+[2025-10-01 18:22:25] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Goblin acdfa176-1222-4371-bd1b-6cce2456c18a for 21 damage.
+[2025-10-01 18:22:25] Goblin acdfa176-1222-4371-bd1b-6cce2456c18a attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 1 damage.
+[2025-10-01 18:22:26] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Goblin acdfa176-1222-4371-bd1b-6cce2456c18a for 20 damage.
+[2025-10-01 18:22:26] Goblin acdfa176-1222-4371-bd1b-6cce2456c18a attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for -1 damage.
+[2025-10-01 18:22:27] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Goblin acdfa176-1222-4371-bd1b-6cce2456c18a for 19 damage.
+[2025-10-01 18:22:27] Enemy Goblin acdfa176-1222-4371-bd1b-6cce2456c18a defeated by Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e.
+[2025-10-01 18:22:27] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e gained 20 XP (total 20).
+[2025-10-01 18:23:16] Encounter started: Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e vs Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 (lvl 1).
+[2025-10-01 18:23:21] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 19 damage.
+[2025-10-01 18:23:21] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 7 damage.
+[2025-10-01 18:23:22] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 14 damage.
+[2025-10-01 18:23:22] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 9 damage.
+[2025-10-01 18:23:23] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 19 damage.
+[2025-10-01 18:23:23] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 5 damage.
+[2025-10-01 18:23:23] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 17 damage.
+[2025-10-01 18:23:23] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 7 damage.
+[2025-10-01 18:23:24] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 15 damage.
+[2025-10-01 18:23:24] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 7 damage.
+[2025-10-01 18:23:24] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 17 damage.
+[2025-10-01 18:23:24] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 6 damage.
+[2025-10-01 18:23:25] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 18 damage.
+[2025-10-01 18:23:25] Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 attacked Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e for 6 damage.
+[2025-10-01 18:23:26] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e attacked Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 for 15 damage.
+[2025-10-01 18:23:26] Enemy Troll cc485842-e7b8-4c58-b6ae-aeb5f27a0f39 defeated by Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e.
+[2025-10-01 18:23:26] Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e gained 20 XP (total 40).
+[2025-10-01 18:23:38] Encounter started: Player 348e2d11-da4a-4e60-b115-39dfa0d7aa8e vs Goblin 1d6a6b55-a924-4865-9efa-768fee0397ce (lvl 2).
+[2025-10-01 19:38:53] Created new character: ww a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 (class Warrior).
+[2025-10-01 19:38:53] Encounter started: Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 vs Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b (lvl 1).
+[2025-10-01 19:38:54] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 19 damage.
+[2025-10-01 19:38:54] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 5 damage.
+[2025-10-01 19:38:55] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 14 damage.
+[2025-10-01 19:38:55] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 5 damage.
+[2025-10-01 19:38:55] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 14 damage.
+[2025-10-01 19:38:55] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 7 damage.
+[2025-10-01 19:38:55] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 14 damage.
+[2025-10-01 19:38:55] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 8 damage.
+[2025-10-01 19:38:56] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 19 damage.
+[2025-10-01 19:38:56] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 9 damage.
+[2025-10-01 19:38:56] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 19 damage.
+[2025-10-01 19:38:56] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 6 damage.
+[2025-10-01 19:38:56] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 19 damage.
+[2025-10-01 19:38:56] Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 8 damage.
+[2025-10-01 19:38:56] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b for 18 damage.
+[2025-10-01 19:38:56] Enemy Troll 8c8a0734-f5b3-4e05-a8c4-d663094e887b defeated by Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7.
+[2025-10-01 19:38:56] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 gained 20 XP (total 20).
+[2025-10-01 19:39:10] Encounter started: Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 vs Goblin c1e19912-43ff-44ea-a018-4b054b973ee1 (lvl 1).
+[2025-10-01 19:39:14] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Goblin c1e19912-43ff-44ea-a018-4b054b973ee1 for 21 damage.
+[2025-10-01 19:39:14] Goblin c1e19912-43ff-44ea-a018-4b054b973ee1 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 1 damage.
+[2025-10-01 19:39:16] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Goblin c1e19912-43ff-44ea-a018-4b054b973ee1 for 19 damage.
+[2025-10-01 19:39:16] Goblin c1e19912-43ff-44ea-a018-4b054b973ee1 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 4 damage.
+[2025-10-01 19:39:17] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 ran from Goblin c1e19912-43ff-44ea-a018-4b054b973ee1.
+[2025-10-02 14:04:30] Created new character: Hero 20fd065c-ba15-4e86-8d69-9211c2e33453 (class Mage).
+[2025-10-02 14:04:30] Encounter started: Player 20fd065c-ba15-4e86-8d69-9211c2e33453 vs Goblin 13d915a9-03de-426c-8cc2-e3160837ff84 (lvl 2).
+[2025-10-02 14:05:18] Created new character: rr rr rr eaad5406-56bd-4424-8cfe-41e1b8e3af24 (class Warrior).
+[2025-10-02 14:05:18] Encounter started: Player eaad5406-56bd-4424-8cfe-41e1b8e3af24 vs Goblin 71b36d81-154a-423b-b195-e8cb9323d315 (lvl 1).
+[2025-10-02 14:06:15] Created new character: Hero c3f4698b-9143-4a12-8b5a-1f5e906f8f1b (class Warrior).
+[2025-10-02 14:06:15] Encounter started: Player c3f4698b-9143-4a12-8b5a-1f5e906f8f1b vs Troll e0dfad87-c788-4a01-b780-6a6c472df345 (lvl 1).
+[2025-10-02 14:43:59] Loaded character Junaid 178953ed-9798-4011-b8b7-00d74b97e627 from saves/178953ed-9798-4011-b8b7-00d74b97e627.json.
+[2025-10-02 14:43:59] Encounter started: Player 178953ed-9798-4011-b8b7-00d74b97e627 vs Troll c8cd523c-da36-4234-9041-1063b0b33a10 (lvl 1).
+[2025-10-02 14:44:03] Player 178953ed-9798-4011-b8b7-00d74b97e627 defends (next damage halved).
+[2025-10-02 14:44:03] Troll c8cd523c-da36-4234-9041-1063b0b33a10 attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for 4 damage.
+[2025-10-02 14:44:08] Player 178953ed-9798-4011-b8b7-00d74b97e627 defends (next damage halved).
+[2025-10-02 14:44:08] Troll c8cd523c-da36-4234-9041-1063b0b33a10 attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for 3 damage.
+[2025-10-02 14:44:10] Player 178953ed-9798-4011-b8b7-00d74b97e627 defends (next damage halved).
+[2025-10-02 14:44:10] Troll c8cd523c-da36-4234-9041-1063b0b33a10 attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for 3 damage.
+[2025-10-02 14:44:11] Player 178953ed-9798-4011-b8b7-00d74b97e627 defends (next damage halved).
+[2025-10-02 14:44:11] Troll c8cd523c-da36-4234-9041-1063b0b33a10 attacked Player 178953ed-9798-4011-b8b7-00d74b97e627 for 5 damage.
+[2025-10-02 14:52:55] Loaded character ww a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 from saves/a0acc125-ead4-46b3-b1ae-fa5cb91df0a7.json.
+[2025-10-02 14:52:55] Encounter started: Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 vs Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 (lvl 2).
+[2025-10-02 14:53:06] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 16 damage.
+[2025-10-02 14:53:06] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 10 damage.
+[2025-10-02 14:53:06] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 15 damage.
+[2025-10-02 14:53:06] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 5 damage.
+[2025-10-02 14:53:07] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 19 damage.
+[2025-10-02 14:53:07] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 10 damage.
+[2025-10-02 14:53:08] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 19 damage.
+[2025-10-02 14:53:08] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 6 damage.
+[2025-10-02 14:53:08] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 16 damage.
+[2025-10-02 14:53:08] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 9 damage.
+[2025-10-02 14:53:09] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 19 damage.
+[2025-10-02 14:53:09] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 7 damage.
+[2025-10-02 14:53:10] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 14 damage.
+[2025-10-02 14:53:10] Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 7 damage.
+[2025-10-02 14:53:12] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 attacked Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 for 17 damage.
+[2025-10-02 14:53:12] Enemy Troll 8127a0a0-3aee-409a-b9c0-7528621fb4a9 defeated by Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7.
+[2025-10-02 14:53:12] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 gained 40 XP (total 125).
+[2025-10-02 14:53:12] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 (ww) reached Level 2!
+[2025-10-02 14:53:22] Encounter started: Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 vs Dragon 1e0a7858-88cd-477f-9975-aa6f0249662b (lvl 3).
+[2025-10-02 14:53:26] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 defends (next damage halved).
+[2025-10-02 14:53:26] Dragon 1e0a7858-88cd-477f-9975-aa6f0249662b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 12 damage.
+[2025-10-02 14:53:31] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7's escape failed from Dragon 1e0a7858-88cd-477f-9975-aa6f0249662b.
+[2025-10-02 14:53:31] Dragon 1e0a7858-88cd-477f-9975-aa6f0249662b attacked Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 for 23 damage.
+[2025-10-02 14:53:31] Player a0acc125-ead4-46b3-b1ae-fa5cb91df0a7 was defeated by Dragon 1e0a7858-88cd-477f-9975-aa6f0249662b.
+[2025-10-02 15:15:19] Created new character: ee d90613c4-a581-4e66-a370-f366a30eca96 (class Warrior).
+[2025-10-02 15:15:19] Encounter started: Player d90613c4-a581-4e66-a370-f366a30eca96 vs Troll 26625bc6-e271-4fad-946d-760645e6a2ff (lvl 1).
+[2025-10-02 15:15:20] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 19 damage.
+[2025-10-02 15:15:20] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 5 damage.
+[2025-10-02 15:15:20] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 16 damage.
+[2025-10-02 15:15:20] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 5 damage.
+[2025-10-02 15:15:21] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 15 damage.
+[2025-10-02 15:15:21] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 9 damage.
+[2025-10-02 15:15:21] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 17 damage.
+[2025-10-02 15:15:21] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 9 damage.
+[2025-10-02 15:15:21] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 19 damage.
+[2025-10-02 15:15:21] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 10 damage.
+[2025-10-02 15:15:22] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 16 damage.
+[2025-10-02 15:15:22] Troll 26625bc6-e271-4fad-946d-760645e6a2ff attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 5 damage.
+[2025-10-02 15:15:22] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll 26625bc6-e271-4fad-946d-760645e6a2ff for 18 damage.
+[2025-10-02 15:15:22] Enemy Troll 26625bc6-e271-4fad-946d-760645e6a2ff defeated by Player d90613c4-a581-4e66-a370-f366a30eca96.
+[2025-10-02 15:15:22] Player d90613c4-a581-4e66-a370-f366a30eca96 gained 20 XP (total 20).
+[2025-10-02 15:15:28] Encounter started: Player d90613c4-a581-4e66-a370-f366a30eca96 vs Troll b71c61db-4501-4f63-9e62-3b4f3aa042da (lvl 1).
+[2025-10-02 15:15:30] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:30] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 4 damage.
+[2025-10-02 15:15:31] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:31] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 4 damage.
+[2025-10-02 15:15:32] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:32] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 5 damage.
+[2025-10-02 15:15:32] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:32] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 4 damage.
+[2025-10-02 15:15:33] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:33] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 5 damage.
+[2025-10-02 15:15:33] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:33] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 3 damage.
+[2025-10-02 15:15:34] Player d90613c4-a581-4e66-a370-f366a30eca96 defends (next damage halved).
+[2025-10-02 15:15:34] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 3 damage.
+[2025-10-02 15:15:35] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 19 damage.
+[2025-10-02 15:15:35] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 9 damage.
+[2025-10-02 15:15:36] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 14 damage.
+[2025-10-02 15:15:36] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 8 damage.
+[2025-10-02 15:15:37] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 19 damage.
+[2025-10-02 15:15:37] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 10 damage.
+[2025-10-02 15:15:37] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 19 damage.
+[2025-10-02 15:15:37] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 6 damage.
+[2025-10-02 15:15:38] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 14 damage.
+[2025-10-02 15:15:38] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 10 damage.
+[2025-10-02 15:15:39] Player d90613c4-a581-4e66-a370-f366a30eca96 attacked Troll b71c61db-4501-4f63-9e62-3b4f3aa042da for 18 damage.
+[2025-10-02 15:15:39] Troll b71c61db-4501-4f63-9e62-3b4f3aa042da attacked Player d90613c4-a581-4e66-a370-f366a30eca96 for 10 damage.
+[2025-10-02 15:15:39] Player d90613c4-a581-4e66-a370-f366a30eca96 was defeated by Troll b71c61db-4501-4f63-9e62-3b4f3aa042da.
+[2025-10-02 15:35:33] Created new character: ww 9794fd09-0270-40f6-8fb9-5e84e209b843 (class Warrior).
+[2025-10-02 15:35:33] Encounter started: Player 9794fd09-0270-40f6-8fb9-5e84e209b843 vs Troll 849fbd13-d8a1-470d-9737-991128c6732e (lvl 2).
+[2025-10-02 15:35:34] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 15 damage.
+[2025-10-02 15:35:34] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 8 damage.
+[2025-10-02 15:35:34] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 17 damage.
+[2025-10-02 15:35:34] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 9 damage.
+[2025-10-02 15:35:35] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 19 damage.
+[2025-10-02 15:35:35] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 8 damage.
+[2025-10-02 15:35:36] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 14 damage.
+[2025-10-02 15:35:36] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 9 damage.
+[2025-10-02 15:35:36] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 18 damage.
+[2025-10-02 15:35:36] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 10 damage.
+[2025-10-02 15:35:37] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 18 damage.
+[2025-10-02 15:35:37] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 8 damage.
+[2025-10-02 15:35:38] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 16 damage.
+[2025-10-02 15:35:38] Troll 849fbd13-d8a1-470d-9737-991128c6732e attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 9 damage.
+[2025-10-02 15:35:38] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 attacked Troll 849fbd13-d8a1-470d-9737-991128c6732e for 14 damage.
+[2025-10-02 15:35:38] Enemy Troll 849fbd13-d8a1-470d-9737-991128c6732e defeated by Player 9794fd09-0270-40f6-8fb9-5e84e209b843.
+[2025-10-02 15:35:38] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 gained 40 XP (total 40).
+[2025-10-02 15:35:59] Loaded character ww 9794fd09-0270-40f6-8fb9-5e84e209b843 from saves/9794fd09-0270-40f6-8fb9-5e84e209b843.json.
+[2025-10-02 15:35:59] Encounter started: Player 9794fd09-0270-40f6-8fb9-5e84e209b843 vs Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b (lvl 2).
+[2025-10-02 15:36:06] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 defends (next damage halved).
+[2025-10-02 15:36:06] Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 4 damage.
+[2025-10-02 15:36:06] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 defends (next damage halved).
+[2025-10-02 15:36:06] Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 5 damage.
+[2025-10-02 15:36:07] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 defends (next damage halved).
+[2025-10-02 15:36:07] Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 5 damage.
+[2025-10-02 15:36:09] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 defends (next damage halved).
+[2025-10-02 15:36:09] Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b attacked Player 9794fd09-0270-40f6-8fb9-5e84e209b843 for 5 damage.
+[2025-10-02 15:36:11] Player 9794fd09-0270-40f6-8fb9-5e84e209b843 ran from Troll 68594c29-4a65-4433-bec8-58eb9ff20f6b.
+[2025-10-02 15:37:24] Created new character: ww 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 (class Mage).
+[2025-10-02 15:37:24] Encounter started: Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 vs Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa (lvl 2).
+[2025-10-02 15:37:30] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 23 damage.
+[2025-10-02 15:37:30] Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 12 damage.
+[2025-10-02 15:37:30] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 23 damage.
+[2025-10-02 15:37:30] Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 11 damage.
+[2025-10-02 15:37:31] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 20 damage.
+[2025-10-02 15:37:31] Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 14 damage.
+[2025-10-02 15:37:31] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 19 damage.
+[2025-10-02 15:37:31] Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 12 damage.
+[2025-10-02 15:37:32] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 20 damage.
+[2025-10-02 15:37:32] Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 12 damage.
+[2025-10-02 15:37:32] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 attacked Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa for 19 damage.
+[2025-10-02 15:37:32] Enemy Troll dffb69b3-9b76-40af-b9b0-ae2cf43990fa defeated by Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65.
+[2025-10-02 15:37:32] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 gained 40 XP (total 40).
+[2025-10-02 15:37:38] Encounter started: Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 vs Dragon 35ad9b3c-033c-4aca-a129-0fc933d1fc70 (lvl 1).
+[2025-10-02 15:37:39] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 defends (next damage halved).
+[2025-10-02 15:37:39] Dragon 35ad9b3c-033c-4aca-a129-0fc933d1fc70 attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 15 damage.
+[2025-10-02 15:37:40] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 defends (next damage halved).
+[2025-10-02 15:37:40] Dragon 35ad9b3c-033c-4aca-a129-0fc933d1fc70 attacked Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 for 15 damage.
+[2025-10-02 15:37:40] Player 3bf88a5f-2622-4340-b9d8-cbdb3758cb65 was defeated by Dragon 35ad9b3c-033c-4aca-a129-0fc933d1fc70.
